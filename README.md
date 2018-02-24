@@ -1,1 +1,1 @@
-- [API Docs](https://app.swaggerhub.com/apis/hellocode/slacktor/1.0.0)
+- API DOCS - [SwaggerHub](https://app.swaggerhub.com/apis/hellocode/slacktor/1.0.0)
